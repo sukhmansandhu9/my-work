@@ -1,0 +1,51 @@
+.sideContainer {
+  margin-left: 10vw;
+}
+.earningDiv {
+  display: flex;
+  justify-content: space-around;
+  width: 70vw;
+  margin: 0 auto;
+  margin-top: 3vw;
+  margin-bottom: 3vw;
+  box-shadow: 10px 10px 10px #d1cbcb;
+  padding-bottom: 1vw;
+}
+.mySideBar {
+  position: fixed;
+}
+.trafficDiv {
+  display: flex;
+  /* background-color: red; */
+  justify-content: space-around;
+  /* align-items: center; */
+  width: 75vw;
+  margin: 0 auto;
+  box-shadow: 10px 10px 10px #d1cbcb;
+  margin-bottom: 4vw;
+  padding-bottom: 2vw;
+}
+
+.tableSales {
+  display: flex;
+  /* background-color: red; */
+  justify-content: space-around;
+  /* align-items: center; */
+  width: 75vw;
+  margin: 0 auto;
+  box-shadow: 10px 10px 10px #d1cbcb;
+  /* margin-bottom: 10vw; */
+  padding-bottom: 2vw;
+}
+
+.salesOverview {
+  /* display: flex; */
+  /* background-color: red; */
+  justify-content: space-around;
+  align-items: center;
+  width: 75vw;
+  margin: 0 auto;
+  box-shadow: 10px 10px 10px #d1cbcb;
+  /* margin-bottom: 10vw; */
+  padding-bottom: 2vw;
+}
